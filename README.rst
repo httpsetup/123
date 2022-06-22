@@ -13,7 +13,7 @@
 |
 
 
-To use all available printer features, you need to have the HP Smart app installed on a mobile device or the latest version of Windows or macOS. Set up your printer using the printer drivers built into Windows. Click on Driver Installation Software and then follow the link 123.hp.com/setup for more details.
+To use all available printer features, you need to have the HP Smart app installed on a mobile device or the latest version of Windows or macOS. Set up your printer using the printer drivers built into Windows. Click on Driver Installation Software and then follow the link **123.hp.com/setup** for more details.
 
 
 
@@ -36,7 +36,7 @@ HP printer setup on windows Using 123.hp.com/setup
 6. Next, type the model number of your printer.
 7. Now select your Mac OS and also choose your Windows OS version.
 8. Next click on 'Update'.
-9. Download the recommended 123.hp.com/setup printer drivers now.
+9. Download the recommended **123.hp.com/setup** printer drivers now.
 10. To install the printer software, double click on it.
 11. Now, follow the on screen prompts to complete the 123 hp setup.
 12. Follow the on screen prompts to complete the 123 hp setup.
