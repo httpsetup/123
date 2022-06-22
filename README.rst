@@ -3,7 +3,7 @@
 #############
 
 
-.. image:: get-started-a.png
+.. image:: get-started-today.png
 	  :width: 350px   
 	  :align: center 
 	  :height: 100px 
